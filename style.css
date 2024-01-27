@@ -1,0 +1,58 @@
+h1{
+  background-color: blanchedalmond;
+  color: green;
+  text-align: center;
+}
+
+.highlighted{
+  color: rgba(226, 198, 43, 0.973);
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
+  font-size: 27px;
+}
+P{
+  text-align: center;
+}
+.textbox span{
+  color: blue;
+  text-align:justify;
+  place-items: center;
+}
+body{
+  float: justify;
+}
+.highlighted{
+  color: rgb(218, 31, 243);
+  text-transform: capitalize;
+  text-size-adjust: 28px;
+  text-align: center;
+}
+body{
+  background-color: navajowhite;
+}
+
+.rounded-section{
+  box-shadow: 5px 5px 10px rgba(45, 243, 226, 0.993);
+  border-radius: 10px;
+  border: 10px;
+  height: 260px;
+}
+
+.head {
+  text-align: center;
+  color: rgb(159, 13, 243);
+  background-color: aqua;
+}
+label{
+  float: center;
+}
+legend{
+  text-align: center;
+  color: rgb(31, 149, 245);
+  font-size: xx-large;
+  }
+
+  .center-container{
+      text-align: center;
+  }
